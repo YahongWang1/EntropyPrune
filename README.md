@@ -35,7 +35,7 @@ Star 🌟 us if you think it is helpful!!
 
 ## ⚡Introduction
 <p align='center'>
-<img src='https://github.com/YahongWang1/EntropyPrune/blob/main/images/overview.png' alt='mask' width='1000px'>
+<img src='https://github.com/YahongWang1/EntropyPrune/blob/main/images/overview.jpg' alt='mask' width='1000px'>
 </p>
 
 > **TLDR:** By analyzing the layer-wise matrix entropy of visual representations, we uncover an “Entropy Collapse Layer” (ECL) where visual-token information drops sharply, providing a principled answer to when to prune instead of relying on manually chosen layers. Building on this, EntropyPrune measures each token’s information content with token-wise matrix entropy to determine what to prune, while a dual-Gram-matrix spectral formulation makes entropy computation efficient.
