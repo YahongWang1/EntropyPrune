@@ -28,7 +28,7 @@ Lianghua He<sup>1,4✉</sup>,
 
 ## 📢 News
 
-- **`2026.09.07`** Our [paper](https://arxiv.org/abs/2602.17196) and [Code](https://github.com/YahongWang1/EntropyPrune) are available!
+- **`2026.09.07`** Our [paper](https://arxiv.org/abs/2602.17196v2) and [Code](https://github.com/YahongWang1/EntropyPrune) are available!
 - **`2026.08.21`** Our paper is accepted at EMNLP 2026 Findings!
 
 Star 🌟 us if you think it is helpful!!
